@@ -190,3 +190,50 @@ Slider starts
     -webkit-animation: blink 0.75s infinite;/*for chrome responsiveness*/
     -moz-animation: blink 0.75s infinite;/*for mozilla responpsiveness*/
 }
+
+
+@keyframes blink
+{
+    0%
+    {
+        opacity: 1;
+    }
+    50%
+    {
+        opacity: 0;
+    }
+    100%
+    {
+        opacity: 1;
+    }
+}
+@-webkit-keyframes blink      /*Now for 2 different prefixes*/
+{
+    0%
+    {
+        opacity: 1;
+    }
+    50%
+    {
+        opacity: 0;
+    }
+    100%
+    {
+        opacity: 1;
+    }
+}
+@-moz-keyframes blink
+{
+    0%
+    {
+        opacity: 1;
+    }
+    50%
+    {
+        opacity: 0;
+    }
+    100%
+    {
+        opacity: 1;
+    }
+}
