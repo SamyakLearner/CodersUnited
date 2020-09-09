@@ -500,10 +500,13 @@ video section starts
 .play
 {
     background: #fff url(..//images/play.jfif) no-repeat 60% 50% ;
-    width: 140px;
-    height: 140px;
-    border-radius: 150px ;
-    border-color: #34495e ;
+    width: 110px;
+    height: 110px;
+    border-radius: 150px;
+    display: inline-block;
+    margin-top: 70px;
+    margin-bottom: 40px;
+    box-shadow: 0 0 0 20px rgba(0,167,221,0.5);
     transition: all .1s ease-in;
 }
 
@@ -511,3 +514,7 @@ video section starts
 {
     box-shadow: 0 0 15px 20px rgba(0,84,111,0.5);
 }
+
+/*=====================
+video section ends
+======================*/
