@@ -480,3 +480,34 @@ faq section starts
 /*=====================
 faq section ends
 ======================*/
+
+
+/*=====================
+video section starts
+======================*/
+
+.color-overlay
+{
+    background-image:linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)),url(..//images/video.jpg);
+    background-size: cover;
+    padding-top: 180px;
+    padding-bottom: 180px;
+    overflow: hidden;
+    margin-top: 40px;
+    background-attachment: fixed;
+}
+
+.play
+{
+    background: #fff url(..//images/play.jfif) no-repeat 60% 50% ;
+    width: 140px;
+    height: 140px;
+    border-radius: 150px ;
+    border-color: #34495e ;
+    transition: all .1s ease-in;
+}
+
+.play:hover
+{
+    box-shadow: 0 0 15px 20px rgba(0,84,111,0.5);
+}
