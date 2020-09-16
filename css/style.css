@@ -686,7 +686,7 @@ contact-area section starts
 {
     background-color: darkcyan;
     padding-bottom: 5px;
-    padding: 12px 43px;
+    padding-top: 35px;
     margin-top: 90px;
     margin-bottom: -30px;
     
@@ -697,7 +697,10 @@ contact-area section starts
     color: aliceblue;
     font-size: 26px;
     border: 1px solid white;
-    padding: 12px 43px;
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    line-height: 50px;
 }
 
 #contact-infos p
