@@ -670,14 +670,14 @@ contact-area section starts
 .contact-form button
 {
     font-size: 16px;
+    font-weight: 700;
     padding: 12px 43px;
     border: 1px solid black;
 }
 
 .contact-area .border-bottom
 {
-    padding: 12px 43px;
-    width: 50px;
+    width: 40px;
     height: 2px;
     background: black;
 }
