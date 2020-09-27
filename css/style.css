@@ -191,7 +191,6 @@ Slider starts
     -moz-animation: blink 0.75s infinite;/*for mozilla responpsiveness*/
 }
 
-
 @keyframes blink
 {
     0%
@@ -238,7 +237,6 @@ Slider starts
     }
 }
 
-
 /*=====================
 Services section starts
 ======================*/
@@ -265,7 +263,6 @@ Services section starts
 {
     transform: rotate(360deg);
 }*/
-
 
 /*=====================
 work section starts
@@ -297,56 +294,6 @@ work section starts
 work section ends
 ======================*/
 
-
-/*=====================
-team section starts
-======================*/
-
-.team-member
-{
-    margin-top: 50px;
-}
-.team-member
-{
-    margin:0 15px;
-}
-.team-member-info
-{
-    padding:10px 0 30px 0;
-}
-.team-member-name
-{
-    font-size: 19px;
-    font-weight: 700;
-    letter-spacing: 1px;
-    padding-top: 2px;
-}
-.team-member-designation
-{
-    font-size: 15px;
-    font-weight: 700;
-    letter-spacing: 1px;
-    margin-top: 5px;
-    color: deepskyblue;
-}
-.social-list
-{
-    padding-left: 0;
-}
-.social-list li
-{
-    list-style: none;
-    display: inline-block;
-    width:10px;
-    height:10px;
-    margin-top: 10px;
-    margin-right: 6px;
-    font-size: 17px;
-}
-.social-list i
-{
-    color:#64707b;
-}
 /*=====================
 team section starts
 ======================*/
@@ -482,6 +429,7 @@ faq section ends
 ======================*/
 
 
+
 /*=====================
 video section starts
 ======================*/
@@ -518,7 +466,6 @@ video section starts
 /*=====================
 video section ends
 ======================*/
-
 
 /*=====================
 blog section starts
@@ -652,7 +599,6 @@ stat section starts
 stat section ends
 ======================*/
 
-
 /*=====================
 contact-area section starts
 ======================*/
@@ -713,7 +659,6 @@ contact-area section starts
 contact-area section ends
 ======================*/
 
-
 /*=====================
 map-area section starts
 ======================*/
@@ -727,11 +672,9 @@ map-area section starts
 map-area section ends
 ======================*/
 
-
 /*=====================
 footer-area section starts
 ======================*/
-
 
 .footer
 {
@@ -780,17 +723,4 @@ footer-area section starts
 footer-area section ends
 ======================*/
 
-  
-<script src="js/jquery-3.4.1.min.js" type="text/javascript" ></script>
-<script src="js/bootstrap.min.js" type="text/javascript" ></script>
-<script src="js/jquery.ripples-min.js" type="text/javascript" ></script>
-<!--   <script src="js/typed.min.js" type="text/javascript" ></script>-->
-<script src="https://cdnjs.cloudflare.com/ajax/libs/typed.js/1.1.1/typed.min.js"></script>
-<script src="js/jquery.magnific-popup.min.js" type="text/javascript"></script>
-<script src="js/owl.carousel.min.js" type="text/javascript"></script>
-<script src="js/jquery.waypoints.min.js" type="text/javascript"></script>
-<script src="js/jquery.counterup.min.js" type="text/javascript"></script>
- <script src="js/main.js" type="text/javascript" ></script>
- <script src="js/smoothscroll.js" type="text/javascript" ></script>
-</body>
-</html>
+
