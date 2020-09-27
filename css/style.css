@@ -767,3 +767,15 @@ footer-area section starts
     border: 10px solid white;
     transform: rotate(360deg);
 }
+
+.borderfooter
+{
+    width: 40px;
+    border-bottom: 2px solid white;
+    margin-top: 20px;
+    margin: 0 auto;
+}
+
+/*=====================
+footer-area section ends
+======================*/
